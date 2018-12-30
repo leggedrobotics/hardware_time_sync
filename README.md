@@ -1,6 +1,6 @@
 # Documentation on Sensor Timing Synchronization
 
-This software is licensed under an [MIT](LICENSE).
+This software is licensed under an [MIT](LICENSE) license.
 
 **Author(s):** Russell Buchanan.
 
